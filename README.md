@@ -11,3 +11,5 @@ quick commerce, parking lot, amazon locker, rate limiter, LRU cache (support for
 5. Stream API -> intermediate function like filter(takes predicate) and map(takes function or supplier) which returns stream and terminal function like forEach, collect, count
 6. File handling and Path -> usage of RandomAccessFile.
 7. HttpURLConnection
+
+Done
